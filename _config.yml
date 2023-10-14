@@ -10,7 +10,7 @@ relative_permalinks: false
 title:            B2M
 tagline:          'Boys to Manhood'
 description:      'Boys to Manhood<br /><br />Committed to empowering boys aged 11-18, our mission is to guide them on the path to confident, respectful, and responsible manhood.'
-url:              http://localhost:4000
+url:              https://b2m.dscplshp.com
 baseurl:          /
 images:
   logo:           '/public/images/logo_150.png'
