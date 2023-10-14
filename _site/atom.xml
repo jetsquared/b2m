@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>B2M</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2023-10-14T17:03:21-04:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>James Taylor II</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Life is Worth it</title>
+   <link href="http://localhost:4000/2023/10/13/life-is-worth-it.html"/>
+   <updated>2023-10-13T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2023/10/13/life-is-worth-it</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/public/images/LIFE-w-bg.png&quot; alt=&quot;LIFE&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;we-do-life&quot;&gt;We do LIFE&lt;/h3&gt;
+
+&lt;p&gt;In our “Boys to Manhood” program, we don’t just mentor and guide; we live &lt;strong&gt;LIFE&lt;/strong&gt; with our boys.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We are firm believers in &lt;strong&gt;lives&lt;/strong&gt; that are deeply connected, where every moment is &lt;strong&gt;inspired&lt;/strong&gt;, and the &lt;strong&gt;future&lt;/strong&gt; is nothing short of bright. Our mission is to &lt;strong&gt;empower&lt;/strong&gt; young men to embrace change as a tangible reality, to become leaders who shape not only their own destinies but also the world around them.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;sign-up-a-young-man-today&quot;&gt;&lt;a href=&quot;/Connect&quot;&gt;Sign Up a Young Man Today&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Join us on this incredible journey of growth, self-discovery, and transformation, where together, we forge lives filled with connection, inspiration, promise, and empowerment.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>What's B2M?</title>
+   <link href="http://localhost:4000/2023/10/12/whats-b2m.html"/>
+   <updated>2023-10-12T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2023/10/12/whats-b2m</id>
+   <content type="html">&lt;h2 id=&quot;boys-to-manhood&quot;&gt;Boys to Manhood&lt;/h2&gt;
+
+&lt;p&gt;Are you ready to embark on a journey of growth, self-discovery, and transformation? At Boys to Manhood, we’re excited to introduce our brand-new “Boys to Manhood” program, designed to empower boys aged 11-18 and guide them towards becoming confident, respectful, and responsible young men.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-is-boys-to-manhood&quot;&gt;&lt;strong&gt;What Is “Boys to Manhood”?&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;“Boys to Manhood” is more than just a program; it’s a transformative experience aimed at shaping the leaders of tomorrow. We believe in the potential of every young boy to grow into a strong, capable, and compassionate man. Our program is here to nurture that potential, providing the guidance and support necessary to foster personal growth and development.&lt;/p&gt;
+
+&lt;h2 id=&quot;join-us-on-the-journey&quot;&gt;&lt;strong&gt;Join Us on the Journey!&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;If you’re a parent or guardian looking for a program that will help your young boy develop into a confident, respectful, and responsible young man, then look no further. “Boys to Manhood” at Boys to Manhood is the perfect opportunity to embark on this exciting journey of growth and self-discovery.&lt;/p&gt;
+
+&lt;p&gt;Our mentors are ready to inspire and guide your child, and our supportive community will provide a nurturing environment for their development. Together, we will shape tomorrow’s leaders.&lt;/p&gt;
+
+&lt;p&gt;Stay tuned for upcoming events, workshops, and success stories from our “Boys to Manhood” program. We can’t wait to see the incredible transformations that lie ahead!&lt;/p&gt;
+
+&lt;p&gt;Are you ready to join us on this exciting journey? Contact us today to learn more about the “Boys to Manhood” program and how your child can get involved. Together, we’ll nurture tomorrow’s leaders.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Our Approach</title>
+   <link href="http://localhost:4000/2023/10/12/b2m-approach.html"/>
+   <updated>2023-10-12T00:00:00-04:00</updated>
+   <id>http://localhost:4000/2023/10/12/b2m-approach</id>
+   <content type="html">&lt;p&gt;At Boys to Manhood, we understand that the journey from boyhood to manhood can be filled with challenges and uncertainties. That’s why we’ve crafted a program that prioritizes mentorship, collaboration, and personal growth.&lt;/p&gt;
+
+&lt;h2 id=&quot;mentorship&quot;&gt;Mentorship&lt;/h2&gt;
+
+&lt;p&gt;Our experienced mentors are here to guide, inspire, and support participants every step of the way. With their wisdom and encouragement, boys can gain valuable insights, learn life skills, and develop the self-confidence needed to succeed.&lt;/p&gt;
+
+&lt;h2 id=&quot;collaboration&quot;&gt;Collaboration&lt;/h2&gt;
+
+&lt;p&gt;We believe in the power of collaboration. Through shared experiences and a sense of camaraderie, participants in the “Boys to Manhood” program will build meaningful connections with their peers, developing important social and emotional skills along the way.&lt;/p&gt;
+
+&lt;h2 id=&quot;personal-growth&quot;&gt;Personal Growth&lt;/h2&gt;
+
+&lt;p&gt;Our program is designed to empower boys to embrace their unique qualities and develop a strong sense of self. We focus on instilling qualities such as respect, responsibility, and confidence, ensuring that every participant leaves with a strong foundation for a successful future.&lt;/p&gt;
+
+&lt;h2 id=&quot;why-boys-to-manhood&quot;&gt;Why “Boys to Manhood”?&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Empowerment:&lt;/strong&gt; We empower young boys to become the best version of themselves, fostering the leadership qualities that will serve them throughout life.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Respect:&lt;/strong&gt; Our program emphasizes the importance of respect for oneself and others, helping boys build meaningful, respectful relationships.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Responsibility:&lt;/strong&gt; We instill a sense of responsibility, teaching participants the importance of accountability and making informed decisions.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+
+</feed>
