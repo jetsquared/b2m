@@ -1,0 +1,53 @@
+---
+layout: post
+title: Posts
+---
+
+
+<hr />
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <div class="flex-container card">
+      <div>
+        {% if post.hero %}
+        <a href="{{ post.url }}">
+          <img src="{{post.hero}}" alt="heroimg" style="width: 150px" />
+        </a>
+        {% else %}
+          <p style="width: 150px">&nbsp;</p>
+        {% endif %}
+      </div>
+      <div class="border-left">
+        <a href="{{ post.url }}">
+          <h2 class="post-title">{{ post.title }}</h2>
+          <span class="post-date">{{ post.date | date_to_string }}</span>
+        </a>
+      </div>
+    </div>
+    <!-- {{ post.content }} -->
+  </div>
+  {% endfor %}
+</div>
+
+<div class="pagination">
+  {% if paginator.next_page %}
+  <a
+    class="pagination-item older"
+    href="{{ site.baseurl }}blog/page{{paginator.next_page}}"
+    >Older</a
+  >
+  {% else %}
+  <span class="pagination-item older">Older</span>
+  {% endif %} {% if paginator.previous_page %} {% if paginator.page == 2 %}
+  <a class="pagination-item newer" href="{{ site.baseurl }}blog">Newer</a>
+  {% else %}
+  <a
+    class="pagination-item newer"
+    href="{{ site.baseurl }}blog/page{{paginator.previous_page}}"
+    >Newer</a
+  >
+  {% endif %} {% else %}
+  <span class="pagination-item newer">Newer</span>
+  {% endif %}
+</div>

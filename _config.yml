@@ -1,0 +1,39 @@
+# Dependencies
+markdown:         kramdown  # redcarpet
+highlighter:      pygments
+
+# Permalinks
+# permalink:        pretty
+relative_permalinks: false
+
+# Setup
+title:            B2M
+tagline:          'Boys to Manhood'
+description:      'Boys to Manhood<br /><br />Committed to empowering boys aged 11-18, our mission is to guide them on the path to confident, respectful, and responsible manhood.'
+url:              http://localhost:4000
+baseurl:          /
+images:
+  logo:           '/public/images/logo_150.png'
+  blank:          '/public/images/blank.png'
+
+email:            'info@jetsquared.com'
+
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
+
+author:
+  name:           'James Taylor II'
+  url:            https://twitter.com/jetsquaredco
+
+paginate:         5
+paginate_path:    "/blog/page:num/"
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/jetsquared/b2m
+
+sass:
+  sass_dir:       _sass
