@@ -28,5 +28,4 @@ if (youDesireToVolunteer) {
 
 ## Questions or suggestions?
 
-Drop us a line at the following link.Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
+Drop us a line at the following link. <a href="{{source.url}}volunteer" class="btn btn-primary btn-lg">Volunteer</a>
