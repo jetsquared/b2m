@@ -10,9 +10,8 @@ title: About
 
 ```javascript
 // Would you like to volunteer?
-if (youDesireToVolunteer) {
+if (SignMeUp) {
     contactUs();
-    <a href="{{source.url}}volunteer" class="btn btn-primary btn-lg">Volunteer</a>
 }
 ```
 ### <a href="{{source.url}}volunteer" class="btn btn-primary btn-lg">Volunteer</a>
